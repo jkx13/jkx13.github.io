@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DTR-fORK.js";const g=JSON.parse('{"title":"Markdown Extension Examples","description":"","frontmatter":{},"headers":[],"relativePath":"页面展示.md","filePath":"页面展示.md"}'),t={name:"页面展示.md"},e=n("",19),l=[e];function p(h,k,r,o,d,E){return a(),i("div",null,l)}const u=s(t,[["render",p]]);export{g as __pageData,u as default};
